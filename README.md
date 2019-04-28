@@ -1,10 +1,7 @@
-# DS 5559 Exploratory Text Analytics Final Project
+### DS 5559 Exploratory Text Analytics Final Project
+### UVA MSDS 2018 Spring 2019
 
-# UVA MSDS 2018 Spring 2019
-
-
-## Fang You (fy6vj)，Wenxi Zhao (wz8nx), Ruoyan Chen (rc3my)
-
+### Fang You (fy6vj)，Wenxi Zhao (wz8nx), Ruoyan Chen (rc3my)
 
 ### Overview: 
 This project primarily aims to study Victor Hugo, one of the most influential figures in 19th French literature. We would first look at Hugo’s major works at different stages of his life and study how his writing style evolved through time and influenced by social movements. Since Hugo was at the forefront of the Romantic literary movement, we would compare his works with those of Alexandre Dumas, another French writer of the same period. We would compare these two authors’ writing styles, narrations structures and expression of romanticism. We would also compare Hugo’s works with those of Charles Dickens, one of the the greatest British novelist of the Victorian era. The comparison between Hugo and Dickens targets their different social and culture backgrounds, and study whether discrepancies in such backgrounds influences their writings. 
